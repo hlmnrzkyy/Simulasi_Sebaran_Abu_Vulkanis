@@ -15,5 +15,3 @@
 % 13.	Jalankan Program (sama seperti cara nomor 6) “No_5_PlotKetinggian7Jam45Menit” untuk ploting hasil pada file spreadsheet “Hasil simulasi.xlsx” pada waktu +7 jam 45 menit dengan hasil yang dilengkapi colour bar ketinggian abu
 % 14.	Jalankan Program (sama seperti cara nomor 6) “No_6_PlotKetinggian13Jam45Menit” untuk ploting hasil pada file spreadsheet “Hasil simulasi.xlsx” pada waktu +13 jam 45 menit dengan hasil yang dilengkapi colour bar ketinggian abu
 % 15.	Hasil dari langkah 9 - 14 dapat disimpan dengan format .jpeg
-% Link data-grid NCEP-GFS:
-% ' https://drive.google.com/drive/folders/1r48Jd7mUcrV7mbwSVwXCRFtnWpUSsj3a?usp=sharing '
