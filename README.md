@@ -1,4 +1,5 @@
-% Cara Menjalankan Program MATLAB Simulasi Sebaran Abu Vulkanis Erupsi Gunung Tangkuban Perahu 26 Juli 2019:
+% Simulasi_Sebaran_Abu_Vulkanis \n
+% Cara Menjalankan Program MATLAB Simulasi Sebaran Abu Vulkanis Erupsi Gunung Tangkuban Perahu 26 Juli 2019: \n
 % 1.	Instal MATLAB versi R2018a
 % 2.	Buka script MATLAB dengan nama file “No_0_Eksperimen_1_1”
 % 3.	Pada baris 143 – 155 terdapat parameter fisis yang dapat diubah ubah sesuai kebutuhan
